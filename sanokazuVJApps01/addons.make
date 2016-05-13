@@ -1,0 +1,8 @@
+ofxFft
+ofxGui
+ofxMidi
+ofxOsc
+ofxPostGlitch
+ofxSyphon
+ofxVideoRecorder
+ofxXmlSettings

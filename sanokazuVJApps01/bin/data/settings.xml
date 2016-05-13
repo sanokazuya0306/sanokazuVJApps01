@@ -1,0 +1,13 @@
+<group>
+	<tunnelDiff>4</tunnelDiff>
+	<moveSpeed>0</moveSpeed>
+	<cameraDepth>-366.667</cameraDepth>
+	<cameraRotateX>0</cameraRotateX>
+	<cameraRotateY>1</cameraRotateY>
+	<cameraRotateZ>0</cameraRotateZ>
+	<spinSpeed>0.001</spinSpeed>
+<group/>
+<ambient>1</ambient>
+	<diffuse>1</diffuse>
+	<specular>1</specular>
+</group>
